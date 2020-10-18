@@ -14,4 +14,4 @@ Roller is a game made using the Unity Engine and is written in C#. Some of the c
 
 In Roller, you have to move a rolling ball from side to side to avoid rolling into obstacles or falling off the map.
 
-**Roller is still in development and is not done yet. It currently features 1 world with 4 levels, but will include much more levels, a shop system, more abilities, quests, and more.**
+**Roller is still in development and is not done yet. It currently features 1 world with 4 levels, but will include a lot more levels, a shop system, more abilities, quests, and more.**
